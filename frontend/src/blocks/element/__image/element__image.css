@@ -1,0 +1,9 @@
+.element__image {
+    background-size: contain;
+    background-position: center;
+    object-fit: cover;
+    cursor: pointer;
+    width: 100%;
+    min-height: 282px;
+    padding: 0%;
+}

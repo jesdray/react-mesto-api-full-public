@@ -1,0 +1,9 @@
+.element__trash_active{
+    display: block;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.element__trash_active:hover {
+    opacity: 0.6;
+}

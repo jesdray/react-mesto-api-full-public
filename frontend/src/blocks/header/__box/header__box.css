@@ -1,0 +1,7 @@
+.header__box{
+    max-width: min-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

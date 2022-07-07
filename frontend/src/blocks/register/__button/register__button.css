@@ -1,0 +1,9 @@
+.register__button {
+    min-width: 25%;
+    height: 50px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 2px;
+    margin: 215px auto 0;
+}
